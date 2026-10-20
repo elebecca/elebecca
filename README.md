@@ -5,4 +5,4 @@ After completing Makers Academy, I continued developing my skills through hands-
 My design background gives me a strong eye for usability, layout and visual detail, while my development experience has strengthened my problem-solving, debugging and system-design skills.
 I enjoy learning new technologies, improving how applications are structured and delivered, and building projects that combine technical functionality with thoughtful user experience.
 
-Check out my projects on [GitHub](https://github.com/elebecca).
+Check my projects [here](https://github.com/elebecca/CV.git)\

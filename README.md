@@ -1,7 +1,6 @@
 ﻿
 ## About me 👋
 
-## About me 👋
 
 I am a full-stack developer with a background in graphic design and a strong interest in building clear, user-focused digital products.
 

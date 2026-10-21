@@ -8,5 +8,5 @@ I am currently studying for a Master’s degree in Computer Science at City St G
 
 My design background gives me a strong eye for usability, layout and visual detail, while my development experience has strengthened my problem-solving, debugging and system-design skills.
 
-[View CV](YOUR_CV_LINK)  
+[View CV](https://github.com/elebecca/CV)
 Currently building: [Red Pulse](https://github.com/elebecca/redpulse)
